@@ -15,4 +15,6 @@ If this does not work, do:
 $ python RPC.py
 </pre>
 
+From here just follow along with the prompts and try to win!
+
 *Note that the '$' character is not typed, that's just to symbolize being in the terminal*
